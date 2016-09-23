@@ -21,7 +21,7 @@ nav ul li
 {
 	display: inline-block;
 	margin-right: 20px;
-	color: #1d1d1d;
+	color: #FDFAFA;
 	cursor: pointer;
 }
 
@@ -29,8 +29,8 @@ nav ul li
 {
 	width: 600px;
 	height: 500px;
-	background-color:#CEECF5;
-	color: #A9E2F3;
+	background-color:#ACAAAA;
+	color: #080808;
 	margin: 0 auto;
 	text-align: left;
 	border-radius: 20px;
